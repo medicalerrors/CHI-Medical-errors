@@ -2,7 +2,9 @@
 Install Jupyter notebook. Python version >=3.5 is needed.
 
 Table 2: "Baseline characteristics of the population" is generated from BASELINE.ipynb
+
 Table 3: "Gestation-wise baseline characteristics of the population" is generated from BASELINE.ipynb
+
 Table 4: "Significant risks for longer length of stay according to gestation group" is generated from LOS GIT.ipynb
 
 Steps to successfully run individual scripts
