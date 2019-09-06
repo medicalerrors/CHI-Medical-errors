@@ -7,11 +7,15 @@ Table 3: "Gestation-wise baseline characteristics of the population" is generate
 
 Table 4: "Significant risks for longer length of stay according to gestation group" is generated from LOS GIT.ipynb
 
+Supplementary table 1: "Model comparison for LOS" is generated from Models.ipynb
+
+Supplementary table 2: "Distribution of patients in gestation groups" is generated from Distribution_gestation.ipynb
+
 Steps to successfully run individual scripts
 
 BASELINE.ipynb
 1. Install and import the required packages - numpy, matplotlib, seaborn, pandas, tabulate, plotly, statsmodels, itertools
 2. Download any of the three available CSVs in a folder
-3. Define the path in pd.read_csv
+3. Define the path in pd.read_csv in baseline.ipynb
 4. Run the script and two baseline tables will be generated (generic population baseline and gestation-wise baseline characteristics).
 
