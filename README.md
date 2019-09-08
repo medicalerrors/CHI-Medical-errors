@@ -7,7 +7,7 @@ Install Jupyter notebook. Python version >=3.5 is needed.
 
 -- Table 4: "Significant risks for longer length of stay according to gestation group" is generated from LOS GIT.ipynb
 
--- Supplementary table 1: "Model comparison for LOS" is generated from Models.ipynb
+-- Supplementary table 1: "Model comparison for LOS" is generated from Models GIT.ipynb
 
 -- Supplementary table 2: "Distribution of patients in gestation groups" is generated from Distribution_gestation.ipynb
 
