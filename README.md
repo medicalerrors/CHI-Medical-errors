@@ -21,6 +21,9 @@ Install and import the required packages - numpy, matplotlib, seaborn, pandas, t
 2. Define the path in pd.read_csv in baseline.ipynb
 3. Run the script and two baseline tables will be generated (generic population baseline and gestation-wise baseline characteristics).
 
-Note: 1. It will take approximately 20 minutes for the LOS table to render.
-      2. Ignore the warnings
+
+#### LOS GIT.ipynb ####
+1. Download any of the three available CSVs in a folder
+2. Define the path in pd.read_csv in LOS GIT.ipynb
+3. Run the script and the LOS table will be generated after approximately 20 minutes. Also, ignore the warnings.
 
